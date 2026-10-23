@@ -3,9 +3,6 @@
 #include <algorithm>
 #include "genetico.h"
 
-
-
-
 // Essa função é do tipo vector porque precisa retornar um vector para ser armazenado em quem a chama
 // daria para resolver tudo em uma linha mas deixei assim para ser mais legível.
 // Primeiro temos que definir mascaras para bits baixos e altos, aqui eu defino 255 e inverto
