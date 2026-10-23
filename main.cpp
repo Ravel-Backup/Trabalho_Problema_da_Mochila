@@ -18,7 +18,6 @@ int iniciar() {
 	std::vector<Binario> binarioBag; // Árvore resposável por guardar em binario se há valor em cada algarismo das soluções.
 	std::vector<Binario> binarioBag_fitness;
 	std::vector<Binario> fitness;
-	std::vector<unsigned int> bagTemporario, binarioTemporario, invioTemporario;
 	
 	solutionsBag.resize(7);
 	binarioBag.resize(7);
